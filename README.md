@@ -1,4 +1,4 @@
-# aws-homework
+# aws
 
 Click the play button below to watch the interaction with the chat bot.
 
